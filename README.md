@@ -1,0 +1,2 @@
+In this project I believe skills learned so far will be put together to create a basic
+website with recipes. I will come back at the end of the project to reflect on how it went and write down the skills I demonstrated by completing the project.
