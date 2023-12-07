@@ -1,10 +1,22 @@
+html {
+    background-image: 
+    url(./img/persian-voyage-liberty-stone-fabric-08212101k-image01\(1\).jpg);
+}
+
 #main-title {
-   background-color: blanchedalmond;
-   color: maroon; 
+   color: rgb(84, 27, 33); 
    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 55px;
+   text-align: center;
 }
 
 .recipes {
     color: green;
     font-size: 20px;
+}
+
+.box_one {
+    border-color: aquamarine;
+    border-radius: 10px;
+    border: chocolate;
 }
